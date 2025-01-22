@@ -1,4 +1,5 @@
 on: [push, pull_request, workflow_dispatch]
+name: "Build 3 layers layout"
 
 jobs:
   build:
